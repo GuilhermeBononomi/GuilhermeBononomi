@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&pause=1000&random=false&width=435&height=50&lines=Bem-vindo ao meu perfil" alt="Typing SVG"/>
+  </a>
+</h1>
 
 - Sistemas de Informação<br>
 - HTML, CSS e JavaScript<br>
@@ -12,5 +16,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBononomi&show_icons=true&theme=transparent&rank_icon=github)
-
-[![My Skills](https://skillicons.dev/icons?i=instagram,twitter)](https://skillicons.dev)
