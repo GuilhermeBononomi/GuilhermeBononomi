@@ -7,4 +7,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,instagram,discord)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBononomi&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBononomi&show_icons=true&&theme=transparent)
