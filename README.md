@@ -9,26 +9,23 @@
 - Santa Catarina 🇧🇷<br>
 - 18 anos<br>
 
-<div>
-  <a href="mailto:gui.bononomi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</div>
-
-<div>
-  <a href="www.instagram.com" _blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-</div>
-
-<div>
-  <a href="mailto:gui.bononomi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>
-</div>
-
-
-
+  <div align="center">
+    <a href="mailto:gui.bononomi@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail"/>
+    </a>
+  </div>
+  
+  <div align="center">
+    <a href="https://www.instagram.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram"/>
+    </a>
+  </div>
+  
+  <div align="center">
+    <a href="mailto:gui.bononomi@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord"/>
+    </a>
+  </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
