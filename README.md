@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&pause=1000&random=false&width=435&height=50&lines=Bem-vindo ao meu perfil" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&center=true&vcenter=true&pause=1000&random=false&width=435&height=50&lines=Bem-vindo(a) ao meu perfil" alt="Typing SVG"/>
   </a>
 </h1>
 
@@ -8,6 +8,27 @@
 - HTML, CSS e JavaScript<br>
 - Santa Catarina 🇧🇷<br>
 - 18 anos<br>
+
+<div>
+  <a href="mailto:gui.bononomi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</div>
+
+<div>
+  <a href="www.instagram.com" _blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</div>
+
+<div>
+  <a href="mailto:gui.bononomi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
+</div>
+
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
