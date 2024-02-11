@@ -61,7 +61,3 @@
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBononomi&show_icons=true&theme=transparent&rank_icon=github)
