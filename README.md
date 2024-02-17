@@ -7,30 +7,39 @@
 - Sistemas de Informação<br>
 - Santa Catarina 🇧🇷<br>
 - 18 anos<br>
+
 <br>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&center=true&vcenter=true&pause=1000&random=false&width=435&height=50&lines=Contato" alt="Typing SVG"/>
   </a>
 </h1>
+
 <div align="center">
+
 <a href="mailto:gui.bononomi@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
+<br>
+
 <a href="https://www.twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+  <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 <a href="https://www.discord.com">
-<img src="https://skillicons.dev/icons?i=discord"/>
+  <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
-<br>
+
 </div>
+
+<br>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&center=true&vcenter=true&pause=1000&random=false&width=435&height=50&lines=Ferramentas" alt="Typing SVG"/>
@@ -42,7 +51,9 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,figma" />
   </a>
 </p>
+
 <br>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&center=true&vcenter=true&pause=1000&random=false&width=435&height=50&lines=IDE's" alt="Typing SVG"/>
