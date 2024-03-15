@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,figma" />
   </a>
 </p>
 
@@ -32,10 +32,12 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode"/>
   </a>
 </p>
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBononomi&number_format=short&show_icons=false&theme=transparent&rank_icon=github&ring_color=D21F3C&text_color=D21F3C&title_color=D21F3C&border_color=D21F3C&icon_color=D21F3C)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBononomi&langs_count=10&theme=transparent&text_color=FFFFFF&title_color=D21F3C&border_color=D21F3C)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBononomi&langs_count=10&theme=transparent&text_color=D21F3C&title_color=D21F3C&border_color=D21F3C)
